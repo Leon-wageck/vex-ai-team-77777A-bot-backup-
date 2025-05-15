@@ -23,7 +23,7 @@
 			"includePath": [
 				"${workspaceFolder}/**",
 				"C:/msys64/mingw64/include/**",
-				"C:/Users/Leon/Documents/vexShittyINCLUDES/**",
+				"C:/Users/Public/Documents/vexShittyINCLUDES/**",
 				"D:/eigen-master/**",
 				"D:/opennn-6.0.3/**"
 			]
@@ -42,7 +42,7 @@
 			"name": "Linux",
 			"includePath": [
 				"${vex_sdkIncludes}",
-				"C:/Users/Leon/Documents/vexShittyINCLUDES/eigen-master/**"
+				"C:/Users/Public/Documents/vexShittyINCLUDES/**"
 			],
 			"compilerPath": "",
 			"cStandard": "gnu99",
